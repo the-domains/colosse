@@ -1,0 +1,29 @@
+name: colosse
+favicon: null
+layout_spectrum: 0.20480166631750762
+typography_spectrum: 0.10149135580286384
+title: the power of many
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5145463470835239
+  lightness: 0.24742874363437295
+  saturation: 0.2722360920161009
+  rhythmicContrast: 0.5653465539216995
+purpose: []
