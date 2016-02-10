@@ -1,7 +1,7 @@
 name: colosse
 favicon: null
-layout_spectrum: 0.20480166631750762
-typography_spectrum: 0.10149135580286384
+layout_spectrum: 0.73227
+typography_spectrum: 0.87748
 title: the power of many
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5145463470835239
+  brandStrength: 1
   lightness: 0.24742874363437295
   saturation: 0.2722360920161009
   rhythmicContrast: 0.5653465539216995
